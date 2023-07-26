@@ -3,35 +3,26 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle</h1>
-This tutorial outlines the lifecycle of Help Desk tickets using the osTicket software.
+In this project we will look at creating tickets and assigning them to individuals to complete and then closing out those tickets.
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>List of Prerequisites</h2>
 
-- STEP 1 - CREATING TICKETS
-- STEP 2 - ADDING INPUT AND ASSIGNING TICKETS
-- STEP 3 - CLOSING TICKETS
+- CREATING TICKETS
+- ADDING INPUT AND ASSIGNING TICKETS
+- CLOSING TICKETS
 
 <h2>Installation Steps</h2>
 </p>
-<p>
-<br />
-In this project we will look at creating tickets and assigning them to individuals to complete and then closing out those tickets. osTicket was set up on a vitural machine through Azure.
-</p>
-<p>
-<br />
-</p>
-<p>
-<br />
 STEP 1 – CREATING TICKETS
 <p>
 A URL for end users to start a ticket is localhost/osTicket/ as seen in EXAMPLE 1A. For this ticket we will create a high priority ticket of a Business Critical Outage shown in EXAMPLE 1B.
