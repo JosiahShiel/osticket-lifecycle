@@ -30,13 +30,14 @@ A URL for end users to start a ticket is localhost/osTicket/ as seen in EXAMPLE 
 <br />
 EXAMPLE 1A
 <p>
-<img src="https://i.imgur.com/FrdYxRE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="631" alt="100" src="https://github.com/JosiahShiel/osticket-lifecycle/assets/139602019/d6454b5a-6604-4444-bb89-b32e77c40f52">
 </p>
 <p>
 <br />
 </p>
 EXAMPLE 1B
-<img src="https://i.imgur.com/zBd1eoD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img width="628" alt="101" src="https://github.com/JosiahShiel/osticket-lifecycle/assets/139602019/9760e258-7681-4e75-9673-127a6a2be40f">
 </p>
 <p>
 <br />
@@ -44,7 +45,8 @@ Additionally, two other tickets were created for this project. One is a General 
 </p>
 <br />
 EXAMPLE 1C
-<img src="https://i.imgur.com/xBBZHqL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img width="718" alt="102" src="https://github.com/JosiahShiel/osticket-lifecycle/assets/139602019/51e732be-af8c-4055-b9d8-dcaf7b0aaa2e">
 </p>
 <p>
 <br />
@@ -56,21 +58,23 @@ On the "Tickets" tab shown in EXAMPLE 2A we are able to edit the created ticket 
 <br />
 EXAMPLE 2A
 <p>
-<img src="https://i.imgur.com/EPsgYzW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="715" alt="103" src="https://github.com/JosiahShiel/osticket-lifecycle/assets/139602019/744650b7-6065-4f1a-8d8b-1bae5b890d05">
 </p>
 <p>
 See below that the ticket was transferred to myself (Michael Bibelheimer) however there is an alert due to this ticket not being addressed faster due to the SLA set for SEV-A and is “Marked overdue!”. Additionally, you can view the input items for anyone who opens the ticket to provide any additional comments.
 </p>
 <br />
 EXAMPLE 2B
-<img src="https://i.imgur.com/WgbXK6m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img width="719" alt="104" src="https://github.com/JosiahShiel/osticket-lifecycle/assets/139602019/1f323d92-c8a9-4d78-90e7-afd2e47ed131">
 </p>
 <p>
 When the tickets have been assigned, along with priority designation we will have osTicket displaying the following as showing in EXAMPLE 2C. Note "Priority" and "Assigned To" column in contrast to EXAMPLE 1C.
 </p>
 <br />
 EXAMPLE 2C
-<img src="https://i.imgur.com/Aum1jNu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img width="716" alt="105" src="https://github.com/JosiahShiel/osticket-lifecycle/assets/139602019/29e578fd-9424-46ea-b9bd-c295dcc7f2b1">
 </p>
 <br />
 </p>
@@ -83,7 +87,7 @@ Logging in as Jane Doe, we see that she has been assigned the ticket “When Are
 <br />
 EXAMPLE 3A
 <p>
-<img src="https://i.imgur.com/LqQ4Z5T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="715" alt="106" src="https://github.com/JosiahShiel/osticket-lifecycle/assets/139602019/1fb55563-b35e-47af-8d01-a7e7623e8699">
 </p>
 <p>
 
